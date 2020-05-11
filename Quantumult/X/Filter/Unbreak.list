@@ -7,8 +7,8 @@ DOMAIN,app.adjust.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
 DOMAIN,analyticsreporting.googleapis.com,PROXY
-DOMAIN,dl.google.com,DIRECT
-DOMAIN,mtalk.google.com,DIRECT
+DOMAIN,dl.google.com,PROXY
+DOMAIN,mtalk.google.com,PROXY
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT

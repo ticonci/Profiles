@@ -1,39 +1,21 @@
 # (GlobalMedia)
 # (Music)
-# > Deezer
-USER-AGENT,Deezer*,GlobalMedia
-DOMAIN-SUFFIX,deezer.com,GlobalMedia
-DOMAIN-SUFFIX,dzcdn.net,GlobalMedia
-# > KKBOX
-DOMAIN-SUFFIX,kkbox.com,GlobalMedia
-DOMAIN-SUFFIX,kkbox.com.tw,GlobalMedia
-DOMAIN-SUFFIX,kfs.io,GlobalMedia
-# > JOOX
-USER-AGENT,WeMusic*,GlobalMedia
-USER-AGENT,JOOX*,GlobalMedia
-DOMAIN-SUFFIX,joox.com,GlobalMedia
-# > Pandora
-USER-AGENT,Pandora*,GlobalMedia
-DOMAIN-SUFFIX,pandora.com,GlobalMedia
 # > SoundCloud
-USER-AGENT,SoundCloud*,GlobalMedia
-DOMAIN-SUFFIX,p-cdn.us,GlobalMedia
-DOMAIN-SUFFIX,sndcdn.com,GlobalMedia
-DOMAIN-SUFFIX,soundcloud.com,GlobalMedia
+USER-AGENT,SoundCloud*,PROXY
+DOMAIN-SUFFIX,p-cdn.us,PROXY
+DOMAIN-SUFFIX,sndcdn.com,PROXY
+DOMAIN-SUFFIX,soundcloud.com,PROXY
 # > Spotify
-USER-AGENT,Spotify*,GlobalMedia
-DOMAIN-SUFFIX,pscdn.co,GlobalMedia
-DOMAIN-SUFFIX,scdn.co,GlobalMedia
-DOMAIN-SUFFIX,spotify.com,GlobalMedia
-DOMAIN-SUFFIX,spoti.fi,GlobalMedia
-DOMAIN-KEYWORD,spotify.com,GlobalMedia
-DOMAIN-KEYWORD,-spotify-com,GlobalMedia
-# > TIDAL
-USER-AGENT,TIDAL*,GlobalMedia
-DOMAIN-SUFFIX,tidal.com,GlobalMedia
+USER-AGENT,Spotify*,PROXY
+DOMAIN-SUFFIX,pscdn.co,PROXY
+DOMAIN-SUFFIX,scdn.co,PROXY
+DOMAIN-SUFFIX,spotify.com,PROXY
+DOMAIN-SUFFIX,spoti.fi,PROXY
+DOMAIN-KEYWORD,spotify.com,PROXY
+DOMAIN-KEYWORD,-spotify-com,PROXY
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
-USER-AGENT,YouTubeMusic*,GlobalMedia
+USER-AGENT,com.google.ios.youtubemusic*,PROXY
+USER-AGENT,YouTubeMusic*,PROXY
 # (Video)
 # > All4
 USER-AGENT,All4*,GlobalMedia
@@ -204,10 +186,10 @@ USER-AGENT,TaiwanGood*,GlobalMedia
 DOMAIN-SUFFIX,skyking.com.tw,GlobalMedia
 DOMAIN,hamifans.emome.net,GlobalMedia
 # > Twitch
-DOMAIN-SUFFIX,twitch.tv,GlobalMedia
-DOMAIN-SUFFIX,twitchcdn.net,GlobalMedia
-DOMAIN-SUFFIX,ttvnw.net,GlobalMedia
-DOMAIN-SUFFIX,jtvnw.net,GlobalMedia
+DOMAIN-SUFFIX,twitch.tv,PROXY
+DOMAIN-SUFFIX,twitchcdn.net,PROXY
+DOMAIN-SUFFIX,ttvnw.net,PROXY
+DOMAIN-SUFFIX,jtvnw.net,PROXY
 # > ViuTV
 USER-AGENT,Viu*,GlobalMedia
 USER-AGENT,ViuTV*,GlobalMedia

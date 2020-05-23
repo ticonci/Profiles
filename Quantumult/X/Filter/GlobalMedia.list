@@ -1,21 +1,5 @@
 # (GlobalMedia)
 # (Music)
-# > SoundCloud
-USER-AGENT,SoundCloud*,PROXY
-DOMAIN-SUFFIX,p-cdn.us,PROXY
-DOMAIN-SUFFIX,sndcdn.com,PROXY
-DOMAIN-SUFFIX,soundcloud.com,PROXY
-# > Spotify
-USER-AGENT,Spotify*,PROXY
-DOMAIN-SUFFIX,pscdn.co,PROXY
-DOMAIN-SUFFIX,scdn.co,PROXY
-DOMAIN-SUFFIX,spotify.com,PROXY
-DOMAIN-SUFFIX,spoti.fi,PROXY
-DOMAIN-KEYWORD,spotify.com,PROXY
-DOMAIN-KEYWORD,-spotify-com,PROXY
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,PROXY
-USER-AGENT,YouTubeMusic*,PROXY
 # (Video)
 # > All4
 USER-AGENT,All4*,GlobalMedia
@@ -180,11 +164,6 @@ DOMAIN-SUFFIX,pbs.org,GlobalMedia
 USER-AGENT,TaiwanGood*,GlobalMedia
 DOMAIN-SUFFIX,skyking.com.tw,GlobalMedia
 DOMAIN,hamifans.emome.net,GlobalMedia
-# > Twitch
-DOMAIN-SUFFIX,twitch.tv,PROXY
-DOMAIN-SUFFIX,twitchcdn.net,PROXY
-DOMAIN-SUFFIX,ttvnw.net,PROXY
-DOMAIN-SUFFIX,jtvnw.net,PROXY
 # > ViuTV
 USER-AGENT,Viu*,GlobalMedia
 USER-AGENT,ViuTV*,GlobalMedia
@@ -194,9 +173,3 @@ DOMAIN,api.viu.now.com,GlobalMedia
 DOMAIN,d1k2us671qcoau.cloudfront.net,GlobalMedia
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,GlobalMedia
 DOMAIN,dfp6rglgjqszk.cloudfront.net,GlobalMedia
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,PROXY
-USER-AGENT,YouTube*,PROXY
-DOMAIN-SUFFIX,googlevideo.com,PROXY
-DOMAIN-SUFFIX,youtube.com,PROXY
-DOMAIN,youtubei.googleapis.com,PROXY

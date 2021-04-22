@@ -1494,3 +1494,9 @@ DOMAIN-SUFFIX,online-instagram.com,PROXY
 DOMAIN-SUFFIX,onlineinstagram.com,PROXY
 DOMAIN-SUFFIX,web-instagram.net,PROXY
 DOMAIN-SUFFIX,wwwinstagram.com,PROXY
+
+#porbhub
+DOMAIN-SUFFIX,phncdn.com,PROXY
+DOMAIN-SUFFIX,phprcdn.com,PROXY
+DOMAIN-SUFFIX,pornhub.com,PROXY
+DOMAIN-SUFFIX,pornhubpremium.com,PROXY

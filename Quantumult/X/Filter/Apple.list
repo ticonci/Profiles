@@ -15,7 +15,3 @@ DOMAIN-SUFFIX,me.com,PROXY
 DOMAIN-SUFFIX,mzstatic.com,PROXY
 DOMAIN,www-cdn.icloud.com.akadns.net,PROXY
 IP-CIDR,17.0.0.0/8,PROXY
-
-# > Microsoft
-DOMAIN-SUFFIX,bing.com,PROXY
-DOMAIN-SUFFIX,msn.com,PROXY

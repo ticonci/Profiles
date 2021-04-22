@@ -1500,3 +1500,22 @@ DOMAIN-SUFFIX,phncdn.com,PROXY
 DOMAIN-SUFFIX,phprcdn.com,PROXY
 DOMAIN-SUFFIX,pornhub.com,PROXY
 DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+
+#fb messenger
+DOMAIN-SUFFIX,fbmessenger.com,PROXY
+DOMAIN-SUFFIX,m.me,PROXY
+DOMAIN-SUFFIX,messenger.com,PROXY
+DOMAIN-SUFFIX,nbabot.net,PROXY
+
+#whatsapp
+DOMAIN-SUFFIX,wa.me,PROXY
+DOMAIN-SUFFIX,whatsapp-plus.info,PROXY
+DOMAIN-SUFFIX,whatsapp-plus.me,PROXY
+DOMAIN-SUFFIX,whatsapp-plus.net,PROXY
+DOMAIN-SUFFIX,whatsapp.cc,PROXY
+DOMAIN-SUFFIX,whatsapp.com,PROXY
+DOMAIN-SUFFIX,whatsapp.info,PROXY
+DOMAIN-SUFFIX,whatsapp.net,PROXY
+DOMAIN-SUFFIX,whatsapp.org,PROXY
+DOMAIN-SUFFIX,whatsapp.tv,PROXY
+DOMAIN-SUFFIX,whatsappbrand.com,PROXY

@@ -1407,3 +1407,16 @@ DOMAIN-SUFFIX,facebookwork.com,PROXY
 DOMAIN-SUFFIX,redkix.com,PROXY
 DOMAIN-SUFFIX,workplace.com,PROXY
 DOMAIN-SUFFIX,workplaceusecases.com,PROXY
+#netflix
+DOMAIN-SUFFIX,fast.com,PROXY
+DOMAIN-SUFFIX,netflix.ca,PROXY
+DOMAIN-SUFFIX,netflix.com,PROXY
+DOMAIN-SUFFIX,netflix.net,PROXY
+DOMAIN-SUFFIX,netflixinvestor.com,PROXY
+DOMAIN-SUFFIX,netflixtechblog.com,PROXY
+DOMAIN-SUFFIX,nflxext.com,PROXY
+DOMAIN-SUFFIX,nflximg.com,PROXY
+DOMAIN-SUFFIX,nflximg.net,PROXY
+DOMAIN-SUFFIX,nflxsearch.net,PROXY
+DOMAIN-SUFFIX,nflxso.net,PROXY
+DOMAIN-SUFFIX,nflxvideo.net,PROXY

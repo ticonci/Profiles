@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,aaplimg.com,PROXY
 DOMAIN-SUFFIX,apple.co,PROXY
 DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,apple.com.cn,PROXY
+DOMAIN-SUFFIX,apple.com.cn,DIRECT
 DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
 DOMAIN-SUFFIX,appstore.com,PROXY
 DOMAIN-SUFFIX,cdn-apple.com,PROXY

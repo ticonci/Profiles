@@ -1540,3 +1540,6 @@ DOMAIN-SUFFIX,whatsapp.net,PROXY
 DOMAIN-SUFFIX,whatsapp.org,PROXY
 DOMAIN-SUFFIX,whatsapp.tv,PROXY
 DOMAIN-SUFFIX,whatsappbrand.com,PROXY
+
+#other
+DOMAIN-SUFFIX,fandom.com,PROXY

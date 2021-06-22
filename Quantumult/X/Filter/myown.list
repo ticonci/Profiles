@@ -1548,3 +1548,7 @@ DOMAIN-SUFFIX,whatsappbrand.com,PROXY
 
 #other
 DOMAIN-SUFFIX,fandom.com,PROXY
+DOMAIN-SUFFIX,slack.com,PROXY
+DOMAIN-SUFFIX,t66y.com,PROXY
+DOMAIN-SUFFIX,archive.ph.com,PROXY
+DOMAIN-SUFFIX,ntp.org,PROXY
